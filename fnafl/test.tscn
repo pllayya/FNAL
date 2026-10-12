@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://17km6eqiueqi"]
+
+[ext_resource type="Texture2D" uid="uid://blrddl6y6jcc1" path="res://Schermafbeelding 2026-10-10 145839.png" id="1_37kl0"]
+
+[node name="test" type="Sprite2D" unique_id=709250675]
+position = Vector2(681, 325)
+texture = ExtResource("1_37kl0")
